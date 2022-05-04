@@ -33,6 +33,7 @@ Here I create a directory for our project and we perform the below steps in this
 
 ```bash
 mkdir project
+cd project
 ```
 
  I'm using HTML template for EC2 instance, you can use this link for getting [sample HTML templates](https://www.tooplate.com/). 
